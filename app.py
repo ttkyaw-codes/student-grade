@@ -10,5 +10,5 @@ elif avg_grade > 0 and < 40:
     status = "Failed"
 else:
     status = "Error"
-    
+print("placeholder")
 print(f"Name: {name}\nAverage Grade: {avg_grade}\nStaus: {status}")
